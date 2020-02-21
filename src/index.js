@@ -19,5 +19,6 @@ import App14 from "./App14";
 import App15 from "./App15";
 import App16 from "./App16";
 import App17 from "./App17";
+import FinalProject from "./FinalProject";
 
-ReactDOM.render(<App17/>, document.getElementById("root"))
+ReactDOM.render(<FinalProject/>, document.getElementById("root"))
